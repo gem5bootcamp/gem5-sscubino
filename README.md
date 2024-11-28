@@ -1,2 +1,3 @@
-Student: Santiago Cubino
-Email: sscubino@gmail.com
+# Gem5 Bootcamp Homework
+
+Santiago Cubino (sscubino@gmail.com)
